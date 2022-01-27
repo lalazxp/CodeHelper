@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lalazxp.codehelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lalazxp.codehelper.MyBundle
 
 class MyApplicationService {
 
